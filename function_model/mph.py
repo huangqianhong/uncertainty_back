@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 from sklearn.cluster import KMeans
 from numpy.random import default_rng
 import matplotlib.colors as mcolors
-import  cmaps
+import cmaps
 import uuid
 import base64
 
